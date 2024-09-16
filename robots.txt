@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://yigxmaxs.github.io/sitemap/sitemap.txt
